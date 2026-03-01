@@ -2,11 +2,11 @@
 # 1. Linux Basics:
 Linux is a free and open-source operating system.
 Common commands:
-pwd → show current directory 
-ls → list files
-cd → change directory 
-mkdir → create folder
-rm → delete file
+-pwd → show current directory 
+-ls → list files
+-cd → change directory 
+-mkdir → create folder
+-rm → delete file
 # 2. Shell Scripting:
 Shell script = file where we write Linux commands.
 File extension: .sh
